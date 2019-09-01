@@ -1,2 +1,2 @@
-# wzdom-dot-coza
-wzdom-dot-coza
+# wizdom-dot-coza
+wizdom-dot-coza
